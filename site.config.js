@@ -5,7 +5,7 @@ const CONFIG = {
     image: "/avatar.jpg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Gacha Gamer",
     bio: "No Waifu No Life",
-    email: "",
+    email: "gachalife.biz@gmail.com",
     linkedin: "",
     github: "",
     instagram: "",
@@ -29,7 +29,7 @@ const CONFIG = {
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://TODO", // The link to generate OG image, don't end with a slash
   seo: {
-    keywords: ["Gacha", "Honkai", "Genshin"],
+    keywords: ["Gacha", "Honkai", "Genshin", "Nikke"],
   },
 
   // notion configuration (required)
