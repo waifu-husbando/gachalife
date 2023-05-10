@@ -29,7 +29,7 @@ const CONFIG = {
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://TODO", // The link to generate OG image, don't end with a slash
   seo: {
-    keywords: ["Gacha", "Honkai", "Genshin", "Nikke"],
+    keywords: ["Honkai Star Rail", "HSR"],
   },
 
   // notion configuration (required)
